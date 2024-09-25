@@ -1,3 +1,5 @@
 Hello 👋
 
 Let's make a change to see how a pull requst looks like, that contains impersonated commits.
+
+Let's enable commit signing from now on to be sure about the commiter identity. This adds a "verified" badge to all commits.
